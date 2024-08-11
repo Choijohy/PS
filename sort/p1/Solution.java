@@ -1,4 +1,4 @@
-package sort;
+package sort.p1;
 
 import java.io.*;
 import java.util.*;
